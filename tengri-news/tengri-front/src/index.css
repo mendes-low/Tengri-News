@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.footer-images {
+    @apply w-[10%] h-[70px];
+}
+
+.footer-text {
+    @apply flex text-[16px] mb-6 w-[170px];
+}
+
+.large-card {
+    @apply w-[300px];
+}
